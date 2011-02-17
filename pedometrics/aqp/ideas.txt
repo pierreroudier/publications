@@ -1,0 +1,14 @@
+The big picture:
+----------------
+
+* R as a one-stop shop for the analysis 
+* AQP provides pedometrics capabilities to R
+* scalability/processing big data
+* road to web processing
+
+In the detail:
+--------------
+* digital sketches
+* generalization of genetic horizon designations
+
+
